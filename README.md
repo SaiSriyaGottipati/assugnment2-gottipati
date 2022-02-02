@@ -44,3 +44,12 @@ I love playing sports like badminton,tennis and basketball and love watching cri
 *- steve jobs*
 
 ------------------------------------------------------------
+# Geometry  Elementary/Polygons  
+
+In geometry, a polygon is a plane figure that is described by a finite number of straight line segments connected to form a closed polygonal chain (or polygonal circuit). The bounded plane region, the bounding circuit, or the two together, may be called a polygon.
+
+more information about geometry polygons:Some polygons of different kinds: open (excluding its boundary), boundary only (excluding interior), closed (including both boundary and interior), and self-intersecting.
+ 
+ click the link for more information: <https://en.wikipedia.org/wiki/Polygon>
+
+ 
