@@ -33,13 +33,14 @@ I love playing sports like badminton,tennis and basketball and love watching cri
 | football      | ground   |  60$    |
 --------------------------------------
 
-***
+------------------------------------------------------------
 
 # QUOTES
 
-Strength doesnot come from winning.Your struggles develop your strength when you go through hardship and doesnot surrender. that is your strength.
-*- Mahatma gandhi
+>Strength doesnot come from winning.Your struggles develop your strength when you go through hardship and doesnot surrender. that is your strength.
+*- Mahatma gandhi*
 
-Your time is limited so don't waste by living someone elses life. 
-*- steve jobs
+>Your time is limited so don't waste by living someone elses life. 
+*- steve jobs*
 
+------------------------------------------------------------
