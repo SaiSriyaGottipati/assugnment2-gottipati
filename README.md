@@ -15,4 +15,4 @@ from airport u can directly book a cab or take a bus which entres into the city 
 * dosa
 ***
 ### Link of AboutMe ###
-[MY IMAGE](https://github.com/SaiSriyaGottipati/assugnment2-gottipati/commit/1d9f9eeee1a051cba2f7787070443c27234c086f)
+here is the link to know more about me[about me](AboutMe.md)
