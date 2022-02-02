@@ -20,7 +20,7 @@ here is the link to know more about me [about me](AboutMe.md)
 
 ***
 
-# Sports
+# Sports #
 
 I love playing sports like badminton,tennis and basketball and love watching cricket matches. Playing sports helps in maintaining teamwork, a self-cresponsibility, and self-discipline .
 
@@ -34,3 +34,12 @@ I love playing sports like badminton,tennis and basketball and love watching cri
 --------------------------------------
 
 ***
+
+# QUOTES
+
+Strength doesnot come from winning.Your struggles develop your strength when you go through hardship and doesnot surrender. that is your strength.
+*- Mahatma gandhi
+
+Your time is limited so don't waste by living someone elses life. 
+*- steve jobs
+
