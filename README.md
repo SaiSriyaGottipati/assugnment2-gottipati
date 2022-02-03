@@ -5,7 +5,11 @@ domino's pizza is **affordable** and there will also be many **restaurants** aro
 ***
 ## NEAREST AIRPORT ##
 airport that is closest to domino's is **Rajiv gandhi international airport**
-from airport u can directly book a cab or take a bus which entres into the city then take the **flyover** to reach domino's
+from airport u can directly book a cab then go on nehru outer ring 
+next take the PV narsimhaRAO FLYOVER
+after at the end of flyover take the u-turn
+stay towards left lane
+go straight to reach tasty **Domino's**
 
 ## FOOD ITEMS ##
 * pani puri
@@ -53,6 +57,8 @@ more information about geometry polygons:Some polygons of different kinds: open 
  click the link for more information: <https://en.wikipedia.org/wiki/Polygon>
 
  ```
+# circle-line intersection
+
  double r, a, b, c; // given as input
 double x0 = -a*c/(a*a+b*b), y0 = -b*c/(a*a+b*b);
 if (c*c > r*r*(a*a+b*b)+EPS)
