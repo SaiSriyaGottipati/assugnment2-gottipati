@@ -5,11 +5,11 @@ domino's pizza is **affordable** and there will also be many **restaurants** aro
 ***
 ## NEAREST AIRPORT ##
 airport that is closest to domino's is **Rajiv gandhi international airport**
-from airport u can directly book a cab then go on nehru outer ring 
-next take the PV narsimhaRAO FLYOVER
-after at the end of flyover take the u-turn
-stay towards left lane
-go straight to reach tasty **Domino's**
+1 from airport u can directly book a cab then go on nehru outer ring 
+2 next take the PV narsimhaRAO FLYOVER
+3 after at the end of flyover take the u-turn
+4 stay towards left lane
+5 go straight to reach tasty **Domino's**
 
 ## FOOD ITEMS ##
 * pani puri
